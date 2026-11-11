@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleDevelopmentRegion</key>
+  <string>en</string>
+  <key>CFBundleExecutable</key>
+  <string>$(EXECUTABLE_NAME)</string>
+  <key>CFBundleIdentifier</key>
+  <string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+  <key>CFBundleDisplayName</key>
+  <string>NitiaDock</string>
+  <key>CFBundleInfoDictionaryVersion</key>
+  <string>6.0</string>
+  <key>CFBundleName</key>
+  <string>NitiaDock</string>
+  <key>CFBundlePackageType</key>
+  <string>APPL</string>
+  <key>CFBundleShortVersionString</key>
+  <string>$(MARKETING_VERSION)</string>
+  <key>CFBundleVersion</key>
+  <string>$(CURRENT_PROJECT_VERSION)</string>
+  <key>LSMinimumSystemVersion</key>
+  <string>12.0</string>
+  <key>NSHumanReadableCopyright</key>
+  <string>© 2026 Thilip. Based on Tungsten Edge © 2026 Moonbai Studio. Licensed under GPL-3.0-or-later.</string>
+  <key>NSPrincipalClass</key>
+  <string>NSApplication</string>
+  <key>NSAppleEventsUsageDescription</key>
+  <string>NitiaDock uses this to preview the folder shown in Finder, display whether the Trash is empty, and empty the Trash.</string>
+  <!-- Sparkle. The private key for SUPublicEDKey lives only in the maintainer's login keychain
+       (back it up: generate_keys -x). Losing it strands every installed copy on its version. -->
+  <key>SUFeedURL</key>
+  <string>https://raw.githubusercontent.com/Tripchipp/nitiadock/main/appcast.xml</string>
+  <key>SUPublicEDKey</key>
+  <string>QI7JavM3X+4+2ztzxfsR0cGo5PTQoWA+i+K5cybG72E=</string>
+  <!-- SUEnableAutomaticChecks is left out on purpose: Sparkle then asks the user on the second
+       launch whether to check automatically, which is the opt-in we want. -->
+  <!-- Check once a day once the user has opted in. -->
+  <key>SUScheduledCheckInterval</key>
+  <integer>86400</integer>
+</dict>
+</plist>

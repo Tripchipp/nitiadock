@@ -1,0 +1,4264 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "Cancel": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cancel"
+          }
+        }
+      }
+    },
+
+
+
+
+
+    "%@ (default)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ (default)"
+          }
+        }
+      }
+    },
+    "%@ (disconnected)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ (disconnected)"
+          }
+        }
+      }
+    },
+    "%@ failed (status code %d).": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ failed (status code %d)."
+          }
+        }
+      }
+    },
+    "%@ is already taken by another app. The previous shortcut stays active.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ is already taken by another app. The previous shortcut stays active."
+          }
+        }
+      }
+    },
+    "About": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "About"
+          }
+        }
+      }
+    },
+    "Accessibility Permission Required": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Accessibility Permission Required"
+          }
+        }
+      }
+    },
+    "Accessibility Permission Was Revoked": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Accessibility Permission Was Revoked"
+          }
+        }
+      }
+    },
+    "Accessibility permission required": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Accessibility permission required"
+          }
+        }
+      }
+    },
+
+
+    "Add Folder…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add Folder…"
+          }
+        }
+      }
+    },
+
+
+
+    "Always": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Always"
+          }
+        }
+      }
+    },
+    "Always Visible": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Always Visible"
+          }
+        }
+      }
+    },
+
+
+    "Apply": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apply"
+          }
+        }
+      }
+    },
+
+    "Apply “%@” (the Dock will restart)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apply “%@” (the Dock will restart)"
+          }
+        }
+      }
+    },
+    "Are you sure you want to permanently erase the items in the Trash?": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Are you sure you want to permanently erase the items in the Trash?"
+          }
+        }
+      }
+    },
+
+
+
+
+    "Back": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Back"
+          }
+        }
+      }
+    },
+
+    "Can’t Open Dock Settings": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Can’t Open Dock Settings"
+          }
+        }
+      }
+    },
+
+
+
+    "Can’t Use This Shortcut": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Can’t Use This Shortcut"
+          }
+        }
+      }
+    },
+    "Can’t locate this Finder window": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Can’t locate this Finder window"
+          }
+        }
+      }
+    },
+    "Can’t read this folder": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Can’t read this folder"
+          }
+        }
+      }
+    },
+    "Check Again": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Check Again"
+          }
+        }
+      }
+    },
+
+
+
+
+
+
+    "Choose a folder to pin to the taskbar": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose a folder to pin to the taskbar"
+          }
+        }
+      }
+    },
+
+    "Clear Shelf": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clear Shelf"
+          }
+        }
+      }
+    },
+    "Close Window": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Close Window"
+          }
+        }
+      }
+    },
+    "Connect to Server…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connect to Server…"
+          }
+        }
+      }
+    },
+
+    "Copy": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copy"
+          }
+        }
+      }
+    },
+    "Copy Name": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copy Name"
+          }
+        }
+      }
+    },
+    "Copy Path": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copy Path"
+          }
+        }
+      }
+    },
+
+    "Couldn’t Change Dock Settings": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t Change Dock Settings"
+          }
+        }
+      }
+    },
+    "Couldn’t Change Open at Login": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t Change Open at Login"
+          }
+        }
+      }
+    },
+    "Couldn’t Register the Shortcut": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t Register the Shortcut"
+          }
+        }
+      }
+    },
+
+    "Couldn’t update the Login Items list.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t update the Login Items list."
+          }
+        }
+      }
+    },
+    "Date Added": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Date Added"
+          }
+        }
+      }
+    },
+    "Date Modified": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Date Modified"
+          }
+        }
+      }
+    },
+    "Debug": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Debug"
+          }
+        }
+      }
+    },
+    "Debug Build": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Debug Build"
+          }
+        }
+      }
+    },
+    "Dock Settings…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dock Settings…"
+          }
+        }
+      }
+    },
+    "Dock settings can’t be changed directly from a sandboxed environment.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dock settings can’t be changed directly from a sandboxed environment."
+          }
+        }
+      }
+    },
+    "Dock wake delay": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dock wake delay"
+          }
+        }
+      }
+    },
+    "Drag apps here": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Drag apps here"
+          }
+        }
+      }
+    },
+    "Drag files here to park them": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Drag files here to park them"
+          }
+        }
+      }
+    },
+
+
+
+    "Empty Trash": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empty Trash"
+          }
+        }
+      }
+    },
+    "Empty Trash…": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empty Trash…"
+          }
+        }
+      }
+    },
+    "Escape and Delete can’t be the key.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Escape and Delete can’t be the key."
+          }
+        }
+      }
+    },
+    "Export Taskbar Snapshot": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Export Taskbar Snapshot"
+          }
+        }
+      }
+    },
+    "Extra Large": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Extra Large"
+          }
+        }
+      }
+    },
+
+
+
+
+
+    "Finder is temporarily unavailable": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finder is temporarily unavailable"
+          }
+        }
+      }
+    },
+
+
+    "Force Quit": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Force Quit"
+          }
+        }
+      }
+    },
+
+
+    "General": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "General"
+          }
+        }
+      }
+    },
+    "Go to Folder…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Go to Folder…"
+          }
+        }
+      }
+    },
+    "Hide": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hide"
+          }
+        }
+      }
+    },
+    "Hide App": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hide App"
+          }
+        }
+      }
+    },
+
+
+
+    "Install %@ — update available": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Install %@ — update available"
+          }
+        }
+      }
+    },
+    "Install %@…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Install %@…"
+          }
+        }
+      }
+    },
+
+
+    "Keep in Dock": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keep in Dock"
+          }
+        }
+      }
+    },
+
+
+    "Keep maximized windows above the taskbar": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keep maximized windows above the taskbar"
+          }
+        }
+      }
+    },
+    "Kind": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kind"
+          }
+        }
+      }
+    },
+
+    "Large": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Large"
+          }
+        }
+      }
+    },
+
+
+
+
+    "Medium": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Medium"
+          }
+        }
+      }
+    },
+
+
+    "Minimize": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Minimize"
+          }
+        }
+      }
+    },
+    "Minimize windows into their app icon": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Minimize windows into their app icon"
+          }
+        }
+      }
+    },
+    "Minimized": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Minimized"
+          }
+        }
+      }
+    },
+    "Most Used Files": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Most Used Files"
+          }
+        }
+      }
+    },
+
+    "Move to Trash": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Move to Trash"
+          }
+        }
+      }
+    },
+    "Name": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Name"
+          }
+        }
+      }
+    },
+    "Never": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Never"
+          }
+        }
+      }
+    },
+    "Never Wake": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Never Wake"
+          }
+        }
+      }
+    },
+    "New Window": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "New Window"
+          }
+        }
+      }
+    },
+    "No Apps Available": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No Apps Available"
+          }
+        }
+      }
+    },
+    "Not Installed": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not Installed"
+          }
+        }
+      }
+    },
+    "Not Now": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not Now"
+          }
+        }
+      }
+    },
+
+    "Nothing to do here — just a moment.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nothing to do here — just a moment."
+          }
+        }
+      }
+    },
+    "OK": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OK"
+          }
+        }
+      }
+    },
+
+
+
+    "Open": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open"
+          }
+        }
+      }
+    },
+    "Open Applications Folder": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open Applications Folder"
+          }
+        }
+      }
+    },
+    "Open Login Items Settings…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open Login Items Settings…"
+          }
+        }
+      }
+    },
+    "Open Shelf": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open Shelf"
+          }
+        }
+      }
+    },
+    "Open System Settings": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open System Settings"
+          }
+        }
+      }
+    },
+    "Open System Settings and go to Desktop & Dock (on macOS 12, Dock & Menu Bar).": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open System Settings and go to Desktop & Dock (on macOS 12, Dock & Menu Bar)."
+          }
+        }
+      }
+    },
+    "Open Trash": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open Trash"
+          }
+        }
+      }
+    },
+    "Open With": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open With"
+          }
+        }
+      }
+    },
+    "Open at Login": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open at Login"
+          }
+        }
+      }
+    },
+    "Open at Login (Pending Approval)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open at Login (Pending Approval)"
+          }
+        }
+      }
+    },
+    "Open at Login (Unavailable)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open at Login (Unavailable)"
+          }
+        }
+      }
+    },
+    "Open at Login isn’t available on this Mac.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open at Login isn’t available on this Mac."
+          }
+        }
+      }
+    },
+    "Open in Finder": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open in Finder"
+          }
+        }
+      }
+    },
+    "Option alone or Option-Shift is unreliable on macOS 15.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Option alone or Option-Shift is unreliable on macOS 15."
+          }
+        }
+      }
+    },
+
+
+
+    "Permission to control Finder is required": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permission to control Finder is required"
+          }
+        }
+      }
+    },
+    "Pin": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pin"
+          }
+        }
+      }
+    },
+    "Pin to Messaging Zone": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pin to Messaging Zone"
+          }
+        }
+      }
+    },
+    "Pin to Taskbar": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pin to Taskbar"
+          }
+        }
+      }
+    },
+
+    "Press new shortcut…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Press new shortcut…"
+          }
+        }
+      }
+    },
+
+    "Preview Contents": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Preview Contents"
+          }
+        }
+      }
+    },
+    "Putting the windows it moved back where they were.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Putting the windows it moved back where they were."
+          }
+        }
+      }
+    },
+    "Quit": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quit"
+          }
+        }
+      }
+    },
+    "Quit App": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quit App"
+          }
+        }
+      }
+    },
+
+
+    "Recent Folders": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recent Folders"
+          }
+        }
+      }
+    },
+
+
+    "Remove from Shelf": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remove from Shelf"
+          }
+        }
+      }
+    },
+    "Remove from Taskbar": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remove from Taskbar"
+          }
+        }
+      }
+    },
+
+    "Restart Failed": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restart Failed"
+          }
+        }
+      }
+    },
+
+
+    "Restore": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restore"
+          }
+        }
+      }
+    },
+    "Restoring Windows…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restoring Windows…"
+          }
+        }
+      }
+    },
+    "Retry": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Retry"
+          }
+        }
+      }
+    },
+
+
+
+
+    "Settings…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Settings…"
+          }
+        }
+      }
+    },
+    "Shelf": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shelf"
+          }
+        }
+      }
+    },
+    "Shelf · %d": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shelf · %d"
+          }
+        }
+      }
+    },
+    "Shelf · %d — drag files here to park them": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shelf · %d — drag files here to park them"
+          }
+        }
+      }
+    },
+    "Shelf — drag files here to park them": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shelf — drag files here to park them"
+          }
+        }
+      }
+    },
+    "Show": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show"
+          }
+        }
+      }
+    },
+    "Show Debug Console": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show Debug Console"
+          }
+        }
+      }
+    },
+
+    "Show Shelf": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show Shelf"
+          }
+        }
+      }
+    },
+    "Show Trash": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show Trash"
+          }
+        }
+      }
+    },
+
+    "Show in Finder": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show in Finder"
+          }
+        }
+      }
+    },
+    "Show taskbar on": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show taskbar on"
+          }
+        }
+      }
+    },
+
+    "Small": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Small"
+          }
+        }
+      }
+    },
+
+    "Sort by": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sort by"
+          }
+        }
+      }
+    },
+
+
+
+
+    "Switch already on but nothing happens?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Switch already on but nothing happens?"
+          }
+        }
+      }
+    },
+    "System Preferences > Security & Privacy > Privacy > Accessibility": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "System Preferences > Security & Privacy > Privacy > Accessibility"
+          }
+        }
+      }
+    },
+    "System Settings > Privacy & Security > Accessibility": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "System Settings > Privacy & Security > Accessibility"
+          }
+        }
+      }
+    },
+    "Taskbar": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Taskbar"
+          }
+        }
+      }
+    },
+    "Taskbar Size": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Taskbar Size"
+          }
+        }
+      }
+    },
+
+
+    "The Dock will restart": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The Dock will restart"
+          }
+        }
+      }
+    },
+
+
+
+
+
+
+
+
+
+
+    "This Finder window isn’t supported": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This Finder window isn’t supported"
+          }
+        }
+      }
+    },
+
+    "This combination belongs to macOS (⌥⌘D shows/hides the Dock; Control-Option is VoiceOver’s).": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This combination belongs to macOS (⌥⌘D shows/hides the Dock; Control-Option is VoiceOver’s)."
+          }
+        }
+      }
+    },
+    "This copy is running from a temporary or read-only location.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This copy is running from a temporary or read-only location."
+          }
+        }
+      }
+    },
+    "This folder is empty": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This folder is empty"
+          }
+        }
+      }
+    },
+    "This key can’t be used as the shortcut key.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This key can’t be used as the shortcut key."
+          }
+        }
+      }
+    },
+
+    "This will only take a moment.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This will only take a moment."
+          }
+        }
+      }
+    },
+    "Timed out while reading": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Timed out while reading"
+          }
+        }
+      }
+    },
+
+
+
+
+    "Trash": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trash"
+          }
+        }
+      }
+    },
+
+
+
+
+
+
+
+
+    "Turn On Accessibility Permission": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Turn On Accessibility Permission"
+          }
+        }
+      }
+    },
+
+
+    "Use at least one of Command, Control or Option.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Use at least one of Command, Control or Option."
+          }
+        }
+      }
+    },
+    "Use the scale effect when minimizing": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Use the scale effect when minimizing"
+          }
+        }
+      }
+    },
+    "Version %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Version %@"
+          }
+        }
+      }
+    },
+    "Version %@ (%@)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Version %@ (%@)"
+          }
+        }
+      }
+    },
+    "Version (%@)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Version (%@)"
+          }
+        }
+      }
+    },
+
+
+
+    "Warning": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Warning"
+          }
+        }
+      }
+    },
+
+
+
+
+    "You can’t undo this action.": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You can’t undo this action."
+          }
+        }
+      }
+    },
+
+
+
+
+
+
+    "Trash is empty": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trash is empty"
+          }
+        }
+      }
+    },
+    "Reading Trash…": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reading Trash…"
+          }
+        }
+      }
+    },
+    "Allow Finder automation to see what’s in the Trash": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Allow Finder automation to see what’s in the Trash"
+          }
+        }
+      }
+    },
+    "Open in Finder to see the rest": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open in Finder to see the rest"
+          }
+        }
+      }
+    },
+    "Show Drawer": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show Drawer"
+          }
+        }
+      }
+    },
+    "Appearance": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Appearance"
+          }
+        }
+      }
+    },
+    "Running-app dot": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Running-app dot"
+          }
+        }
+      }
+    },
+
+    "Auto": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Auto"
+          }
+        }
+      }
+    },
+    "White": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "White"
+          }
+        }
+      }
+    },
+    "Black": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Black"
+          }
+        }
+      }
+    },
+
+
+
+    "Light": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Light"
+          }
+        }
+      }
+    },
+    "Dark": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dark"
+          }
+        }
+      }
+    },
+
+
+    "Corner radius": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Corner radius"
+          }
+        }
+      }
+    },
+    "Title size": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Title size"
+          }
+        }
+      }
+    },
+    "Reset": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset"
+          }
+        }
+      }
+    },
+
+
+    "Long titles": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Long titles"
+          }
+        }
+      }
+    },
+
+
+
+    "Equal-width cards": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Equal-width cards"
+          }
+        }
+      }
+    },
+
+
+
+    "Badges": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Badges"
+          }
+        }
+      }
+    },
+    "Badge settings are unavailable in this window.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Badge settings are unavailable in this window."
+          }
+        }
+      }
+    },
+
+
+
+    "Add Running App": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add Running App"
+          }
+        }
+      }
+    },
+    "No other running apps": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No other running apps"
+          }
+        }
+      }
+    },
+
+    "Add": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add"
+          }
+        }
+      }
+    },
+
+    "Not installed": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not installed"
+          }
+        }
+      }
+    },
+    "Remove": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remove"
+          }
+        }
+      }
+    },
+
+
+
+    "Spacing": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Spacing"
+          }
+        }
+      }
+    },
+
+
+
+
+    "NitiaDock Settings…": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "NitiaDock Settings…"
+          }
+        }
+      }
+    },
+    "%@ Settings": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ Settings"
+          }
+        }
+      }
+    },
+    "Permissions": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permissions"
+          }
+        }
+      }
+    },
+    "Accessibility": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Accessibility"
+          }
+        }
+      }
+    },
+    "Lets NitiaDock list your windows and bring them forward. The taskbar cannot work without it.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lets NitiaDock list your windows and bring them forward. The taskbar cannot work without it."
+          }
+        }
+      }
+    },
+    "Allowed": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Allowed"
+          }
+        }
+      }
+    },
+    "Finder automation": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finder automation"
+          }
+        }
+      }
+    },
+    "macOS asks once, the first time you preview a Finder folder or empty the Trash from the taskbar.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS asks once, the first time you preview a Finder folder or empty the Trash from the taskbar."
+          }
+        }
+      }
+    },
+    "Updates": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Updates"
+          }
+        }
+      }
+    },
+    "This build never checks for updates. New versions are on GitHub.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This build never checks for updates. New versions are on GitHub."
+          }
+        }
+      }
+    },
+    "Check for updates automatically": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Check for updates automatically"
+          }
+        }
+      }
+    },
+    "Once a day NitiaDock asks GitHub whether there is a newer version. Nothing about you or your Mac is sent.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Once a day NitiaDock asks GitHub whether there is a newer version. Nothing about you or your Mac is sent."
+          }
+        }
+      }
+    },
+    "What NitiaDock does with your data": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "What NitiaDock does with your data"
+          }
+        }
+      }
+    },
+    "Window titles stay on your Mac": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Window titles stay on your Mac"
+          }
+        }
+      }
+    },
+    "NitiaDock reads window titles and app names to draw the cards. They are never stored or sent anywhere.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "NitiaDock reads window titles and app names to draw the cards. They are never stored or sent anywhere."
+          }
+        }
+      }
+    },
+    "No analytics and no account": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No analytics and no account"
+          }
+        }
+      }
+    },
+    "There is no tracking, no telemetry and nothing to sign up for.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "There is no tracking, no telemetry and nothing to sign up for."
+          }
+        }
+      }
+    },
+    "Network": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Network"
+          }
+        }
+      }
+    },
+    "NitiaDock makes no network connections at all.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "NitiaDock makes no network connections at all."
+          }
+        }
+      }
+    },
+    "The update check is the only connection NitiaDock makes, and only if you turn it on.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The update check is the only connection NitiaDock makes, and only if you turn it on."
+          }
+        }
+      }
+    },
+    "A taskbar for your Mac: one card for every window.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A taskbar for your Mac: one card for every window."
+          }
+        }
+      }
+    },
+    "Check for updates": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Check for updates"
+          }
+        }
+      }
+    },
+    "Check Now": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Check Now"
+          }
+        }
+      }
+    },
+    "What’s new": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "What’s new"
+          }
+        }
+      }
+    },
+    "The changes in each version.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The changes in each version."
+          }
+        }
+      }
+    },
+    "Send feedback": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send feedback"
+          }
+        }
+      }
+    },
+    "Report a bug or suggest an idea on GitHub. Your version is filled in for you.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Report a bug or suggest an idea on GitHub. Your version is filled in for you."
+          }
+        }
+      }
+    },
+    "Send Feedback…": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send Feedback…"
+          }
+        }
+      }
+    },
+    "Source code": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Source code"
+          }
+        }
+      }
+    },
+    "NitiaDock is open source.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "NitiaDock is open source."
+          }
+        }
+      }
+    },
+    "GitHub": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "GitHub"
+          }
+        }
+      }
+    },
+    "Credits": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Credits"
+          }
+        }
+      }
+    },
+    "Based on Tungsten Edge": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Based on Tungsten Edge"
+          }
+        }
+      }
+    },
+    "The window tracking and the taskbar come from Tungsten Edge by Moonbai Studio. NitiaDock is not affiliated with or supported by Moonbai Studio.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The window tracking and the taskbar come from Tungsten Edge by Moonbai Studio. NitiaDock is not affiliated with or supported by Moonbai Studio."
+          }
+        }
+      }
+    },
+    "Visit": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Visit"
+          }
+        }
+      }
+    },
+    "License": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "License"
+          }
+        }
+      }
+    },
+    "Free software under the GNU General Public License, version 3 or later.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Free software under the GNU General Public License, version 3 or later."
+          }
+        }
+      }
+    },
+    "Read": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Read"
+          }
+        }
+      }
+    },
+    "Quit NitiaDock": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quit NitiaDock"
+          }
+        }
+      }
+    },
+    "Changes show on the taskbar right away.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Changes show on the taskbar right away."
+          }
+        }
+      }
+    },
+    "Taskbar tint": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Taskbar tint"
+          }
+        }
+      }
+    },
+    "The colour of the glass behind the icons.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The colour of the glass behind the icons."
+          }
+        }
+      }
+    },
+    "Taskbar opacity": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Taskbar opacity"
+          }
+        }
+      }
+    },
+    "At 0% the icons sit straight on the wallpaper.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "At 0% the icons sit straight on the wallpaper."
+          }
+        }
+      }
+    },
+    "Distance from the bottom": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Distance from the bottom"
+          }
+        }
+      }
+    },
+    "The gap under the taskbar. At 0 pt it sits on the screen edge.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The gap under the taskbar. At 0 pt it sits on the screen edge."
+          }
+        }
+      }
+    },
+    "Padding at the ends": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Padding at the ends"
+          }
+        }
+      }
+    },
+    "Empty space at both ends. Right-click it to open the taskbar’s menu.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empty space at both ends. Right-click it to open the taskbar’s menu."
+          }
+        }
+      }
+    },
+    "Dot colour": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dot colour"
+          }
+        }
+      }
+    },
+    "The dot under an app that is running.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The dot under an app that is running."
+          }
+        }
+      }
+    },
+    "Accent colour": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Accent colour"
+          }
+        }
+      }
+    },
+    "Dot size": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dot size"
+          }
+        }
+      }
+    },
+    "Menus, popups and the drawer always stay light.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Menus, popups and the drawer always stay light."
+          }
+        }
+      }
+    },
+    "Reset appearance": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset appearance"
+          }
+        }
+      }
+    },
+    "Puts everything on this page and on Window Cards back to the original look.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Puts everything on this page and on Window Cards back to the original look."
+          }
+        }
+      }
+    },
+    "Every open window gets a card with its title. These options change how the cards look.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Every open window gets a card with its title. These options change how the cards look."
+          }
+        }
+      }
+    },
+    "Look": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Look"
+          }
+        }
+      }
+    },
+    "Card tint": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Card tint"
+          }
+        }
+      }
+    },
+    "Card opacity": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Card opacity"
+          }
+        }
+      }
+    },
+    "Larger or smaller than the standard size.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Larger or smaller than the standard size."
+          }
+        }
+      }
+    },
+    "Width": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Width"
+          }
+        }
+      }
+    },
+    "Maximum card width": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maximum card width"
+          }
+        }
+      }
+    },
+    "Short titles still get a narrower card.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Short titles still get a narrower card."
+          }
+        }
+      }
+    },
+    "What happens when a title does not fit.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "What happens when a title does not fit."
+          }
+        }
+      }
+    },
+    "Cut off the end": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cut off the end"
+          }
+        }
+      }
+    },
+    "Cut out the middle": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cut out the middle"
+          }
+        }
+      }
+    },
+    "Widen the card": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Widen the card"
+          }
+        }
+      }
+    },
+    "Every card takes the maximum width, like the Windows taskbar.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Every card takes the maximum width, like the Windows taskbar."
+          }
+        }
+      }
+    },
+    "Space between items": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Space between items"
+          }
+        }
+      }
+    },
+    "Space between an app’s windows": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Space between an app’s windows"
+          }
+        }
+      }
+    },
+    "Follows the space between items until you change it. −8 pt makes the cards touch.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Follows the space between items until you change it. −8 pt makes the cards touch."
+          }
+        }
+      }
+    },
+    "Chat apps such as Messages, Slack, Teams, WhatsApp and Telegram always show their unread count. Add other apps here, for example your mail app.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chat apps such as Messages, Slack, Teams, WhatsApp and Telegram always show their unread count. Add other apps here, for example your mail app."
+          }
+        }
+      }
+    },
+    "Also show badges for": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Also show badges for"
+          }
+        }
+      }
+    },
+    "The badge is the one the app puts on its Dock icon, so the app has to be running and allowed to show badges in System Settings > Notifications.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The badge is the one the app puts on its Dock icon, so the app has to be running and allowed to show badges in System Settings > Notifications."
+          }
+        }
+      }
+    },
+    "No extra apps": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No extra apps"
+          }
+        }
+      }
+    },
+    "Only chat apps show badges.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Only chat apps show badges."
+          }
+        }
+      }
+    },
+    "Add by Bundle ID…": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add by Bundle ID…"
+          }
+        }
+      }
+    },
+    "Restore Defaults": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restore Defaults"
+          }
+        }
+      }
+    },
+    "Bundle ID": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bundle ID"
+          }
+        }
+      }
+    },
+    "The app’s identifier, such as com.apple.mail. Useful for apps that are not running right now.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The app’s identifier, such as com.apple.mail. Useful for apps that are not running right now."
+          }
+        }
+      }
+    },
+    "Remove %@": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remove %@"
+          }
+        }
+      }
+    },
+    "These only matter when more than one display is connected.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "These only matter when more than one display is connected."
+          }
+        }
+      }
+    },
+    "With more than one display": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "With more than one display"
+          }
+        }
+      }
+    },
+    "Show the taskbar on": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show the taskbar on"
+          }
+        }
+      }
+    },
+    "Pick a display, or let the taskbar move to the display where you rest the pointer at the bottom edge.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pick a display, or let the taskbar move to the display where you rest the pointer at the bottom edge."
+          }
+        }
+      }
+    },
+    "Windows only on their own display": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Windows only on their own display"
+          }
+        }
+      }
+    },
+    "A window gets a card only on the taskbar of the display it is on. The other taskbars show the app as a single icon.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A window gets a card only on the taskbar of the display it is on. The other taskbars show the app as a single icon."
+          }
+        }
+      }
+    },
+    "A taskbar on every display, each listing the windows on that display.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A taskbar on every display, each listing the windows on that display."
+          }
+        }
+      }
+    },
+    "A taskbar on every display, all listing every window.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A taskbar on every display, all listing every window."
+          }
+        }
+      }
+    },
+    "A single taskbar.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A single taskbar."
+          }
+        }
+      }
+    },
+    "Where the pointer is": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Where the pointer is"
+          }
+        }
+      }
+    },
+    "A taskbar per display": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A taskbar per display"
+          }
+        }
+      }
+    },
+    "The same taskbar everywhere": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The same taskbar everywhere"
+          }
+        }
+      }
+    },
+    "One taskbar": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "One taskbar"
+          }
+        }
+      }
+    },
+    "Optional items at the ends of the taskbar. Off, they give their room to window cards.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Optional items at the ends of the taskbar. Off, they give their room to window cards."
+          }
+        }
+      }
+    },
+    "Drop files on the taskbar to keep them at hand. The shelf keeps a link, the files stay where they are.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Drop files on the taskbar to keep them at hand. The shelf keeps a link, the files stay where they are."
+          }
+        }
+      }
+    },
+    "Drawer": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Drawer"
+          }
+        }
+      }
+    },
+    "A button at the right end that holds apps you rarely use. Right-click an app to move it there.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A button at the right end that holds apps you rarely use. Right-click an app to move it there."
+          }
+        }
+      }
+    },
+    "The Trash, as on the Dock. Drop files on it to delete them.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The Trash, as on the Dock. Drop files on it to delete them."
+          }
+        }
+      }
+    },
+
+    "Show app names on hover": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show app names on hover"
+          }
+        }
+      }
+    },
+    "A label with the app’s name above the icon under the pointer.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A label with the app’s name above the icon under the pointer."
+          }
+        }
+      }
+    },
+    "Middle-click for a new window": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Middle-click for a new window"
+          }
+        }
+      }
+    },
+    "On Finder or a browser, a middle-click opens a new window. On a browser window, it closes that window.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "On Finder or a browser, a middle-click opens a new window. On a browser window, it closes that window."
+          }
+        }
+      }
+    },
+    "Haptic feedback": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Haptic feedback"
+          }
+        }
+      }
+    },
+    "A light tap on the trackpad as the pointer moves from one item to the next.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A light tap on the trackpad as the pointer moves from one item to the next."
+          }
+        }
+      }
+    },
+    "Needs a Force Touch trackpad with your finger on it. A mouse feels nothing.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Needs a Force Touch trackpad with your finger on it. A mouse feels nothing."
+          }
+        }
+      }
+    },
+
+
+
+
+    "Keeping windows clear of the taskbar": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keeping windows clear of the taskbar"
+          }
+        }
+      }
+    },
+    "A window that fills the screen stops at the top of the taskbar.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A window that fills the screen stops at the top of the taskbar."
+          }
+        }
+      }
+    },
+    "Reserve space for the taskbar": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reserve space for the taskbar"
+          }
+        }
+      }
+    },
+    "Moves or shrinks the front window when it would end up under the taskbar.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Moves or shrinks the front window when it would end up under the taskbar."
+          }
+        }
+      }
+    },
+    "Only while the taskbar is always visible. Windows are not moved back when you turn this off.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Only while the taskbar is always visible. Windows are not moved back when you turn this off."
+          }
+        }
+      }
+    },
+    "Full screen": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Full screen"
+          }
+        }
+      }
+    },
+    "Smooth full-screen switching": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Smooth full-screen switching"
+          }
+        }
+      }
+    },
+    "Hides the taskbar a moment before a window goes full screen, so it does not flash.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hides the taskbar a moment before a window goes full screen, so it does not flash."
+          }
+        }
+      }
+    },
+    "To do this, NitiaDock watches for the four ways into full screen: the green window button, Control-Command-F, Control-Left or Right Arrow, and a three-finger swipe. It looks at clicks, key presses and gestures only to recognise these. What you type is never recorded, logged or sent anywhere. Turning this off stops the watching completely.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "To do this, NitiaDock watches for the four ways into full screen: the green window button, Control-Command-F, Control-Left or Right Arrow, and a three-finger swipe. It looks at clicks, key presses and gestures only to recognise these. What you type is never recorded, logged or sent anywhere. Turning this off stops the watching completely."
+          }
+        }
+      }
+    },
+    "Reset to default": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset to default"
+          }
+        }
+      }
+    },
+    "More about this setting": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "More about this setting"
+          }
+        }
+      }
+    },
+    "More about %@": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "More about %@"
+          }
+        }
+      }
+    },
+    "Open at login": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open at login"
+          }
+        }
+      }
+    },
+    "Taskbar size": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Taskbar size"
+          }
+        }
+      }
+    },
+    "Hide the taskbar": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hide the taskbar"
+          }
+        }
+      }
+    },
+    "Show/hide shortcut": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show/hide shortcut"
+          }
+        }
+      }
+    },
+    "macOS Dock": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS Dock"
+          }
+        }
+      }
+    },
+    "Setup guide": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Setup guide"
+          }
+        }
+      }
+    },
+    "Essentials": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Essentials"
+          }
+        }
+      }
+    },
+    "Features": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Features"
+          }
+        }
+      }
+    },
+    "App": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App"
+          }
+        }
+      }
+    },
+    "Window Cards": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Window Cards"
+          }
+        }
+      }
+    },
+    "Displays": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Displays"
+          }
+        }
+      }
+    },
+    "Shelf, Drawer & Trash": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shelf, Drawer & Trash"
+          }
+        }
+      }
+    },
+    "Mouse & Trackpad": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mouse & Trackpad"
+          }
+        }
+      }
+    },
+    "Window Management": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Window Management"
+          }
+        }
+      }
+    },
+    "Privacy & Permissions": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Privacy & Permissions"
+          }
+        }
+      }
+    },
+    "Search settings": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Search settings"
+          }
+        }
+      }
+    },
+    "Clear search": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clear search"
+          }
+        }
+      }
+    },
+    "No matching settings": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No matching settings"
+          }
+        }
+      }
+    },
+    "The height of the taskbar and its icons.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The height of the taskbar and its icons."
+          }
+        }
+      }
+    },
+    "Showing and hiding": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Showing and hiding"
+          }
+        }
+      }
+    },
+    "Automatically": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatically"
+          }
+        }
+      }
+    },
+    "Until the shortcut": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Until the shortcut"
+          }
+        }
+      }
+    },
+    "Show after": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show after"
+          }
+        }
+      }
+    },
+    "How long the pointer rests at the bottom edge before the taskbar comes back.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "How long the pointer rests at the bottom edge before the taskbar comes back."
+          }
+        }
+      }
+    },
+    "Switches between always visible and hiding automatically. Works in any app.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Switches between always visible and hiding automatically. Works in any app."
+          }
+        }
+      }
+    },
+    "NitiaDock works best with the Dock hidden. Press ⌥⌘D at any time to show or hide it.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "NitiaDock works best with the Dock hidden. Press ⌥⌘D at any time to show or hide it."
+          }
+        }
+      }
+    },
+    "Go through the first-launch recommendations again, such as hiding the Dock.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Go through the first-launch recommendations again, such as hiding the Dock."
+          }
+        }
+      }
+    },
+    "Show Guide": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show Guide"
+          }
+        }
+      }
+    },
+    "Waiting for your approval in System Settings > General > Login Items.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Waiting for your approval in System Settings > General > Login Items."
+          }
+        }
+      }
+    },
+    "This Mac’s login items can’t be changed from here.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This Mac’s login items can’t be changed from here."
+          }
+        }
+      }
+    },
+    "Start NitiaDock automatically when you log in.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Start NitiaDock automatically when you log in."
+          }
+        }
+      }
+    },
+    "The taskbar is always on screen.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The taskbar is always on screen."
+          }
+        }
+      }
+    },
+    "The taskbar slides away and comes back when the pointer reaches the bottom edge.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The taskbar slides away and comes back when the pointer reaches the bottom edge."
+          }
+        }
+      }
+    },
+    "The taskbar stays hidden until you press the shortcut below.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The taskbar stays hidden until you press the shortcut below."
+          }
+        }
+      }
+    },
+    "NitiaDock (%@ to show/hide)": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "NitiaDock (%@ to show/hide)"
+          }
+        }
+      }
+    },
+    "NitiaDock": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "NitiaDock"
+          }
+        }
+      }
+    },
+    "NitiaDock wake delay": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "NitiaDock wake delay"
+          }
+        }
+      }
+    },
+    "NitiaDock — update available": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "NitiaDock — update available"
+          }
+        }
+      }
+    },
+    "Move NitiaDock to Applications": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Move NitiaDock to Applications"
+          }
+        }
+      }
+    },
+    "Restarting NitiaDock…": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restarting NitiaDock…"
+          }
+        }
+      }
+    },
+
+    "NitiaDock will restart itself once you grant it again.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "NitiaDock will restart itself once you grant it again."
+          }
+        }
+      }
+    },
+    "NitiaDock is still running. You can try again.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "NitiaDock is still running. You can try again."
+          }
+        }
+      }
+    },
+
+    "NitiaDock just lost its Accessibility permission, so the taskbar has been put away. Turn NitiaDock back on in %@.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "NitiaDock just lost its Accessibility permission, so the taskbar has been put away. Turn NitiaDock back on in %@."
+          }
+        }
+      }
+    },
+    "Couldn’t start a new instance of NitiaDock: %@\n\nYou can click Retry, or quit and open it manually from your Applications folder.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t start a new instance of NitiaDock: %@\n\nYou can click Retry, or quit and open it manually from your Applications folder."
+          }
+        }
+      }
+    },
+    "Some items can’t be accessed. Allow NitiaDock to access their folder in your Mac’s privacy settings.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Some items can’t be accessed. Allow NitiaDock to access their folder in your Mac’s privacy settings."
+          }
+        }
+      }
+    },
+
+    "macOS Dock (⌥⌘D to show/hide)": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS Dock (⌥⌘D to show/hide)"
+          }
+        }
+      }
+    },
+    "Moves or shrinks the front window when it would end up under the taskbar. Only while the taskbar is always visible. Windows are not moved back when you turn this off.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Moves or shrinks the front window when it would end up under the taskbar. Only while the taskbar is always visible. Windows are not moved back when you turn this off."
+          }
+        }
+      }
+    },
+    "NitiaDock needs it to show your windows and switch between them.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "NitiaDock needs it to show your windows and switch between them."
+          }
+        }
+      }
+    },
+    "Turn on NitiaDock in %@. This window closes by itself once you do, and the taskbar appears.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Turn on NitiaDock in %@. This window closes by itself once you do, and the taskbar appears."
+          }
+        }
+      }
+    },
+    "macOS ties Accessibility permission to one specific copy of an app. This copy is running from a temporary or read-only location, so turning the switch on will not take effect — and the permission record stays behind in System Settings after the disk image is ejected. Drag NitiaDock to your Applications folder and open it from there.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS ties Accessibility permission to one specific copy of an app. This copy is running from a temporary or read-only location, so turning the switch on will not take effect — and the permission record stays behind in System Settings after the disk image is ejected. Drag NitiaDock to your Applications folder and open it from there."
+          }
+        }
+      }
+    },
+    "If the switch is already on and nothing happens, a permission record left by an older version may no longer match this copy of NitiaDock. You can reset it:\n\n1. Quit NitiaDock first — while it is running, the minus button in the list is greyed out and the entry cannot be removed.\n2. In Privacy & Security > Accessibility, select NitiaDock in the list and remove it with the minus button. There may be more than one entry; remove them all.\n3. Open NitiaDock again from your Applications folder, then add it and turn the switch on when prompted.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "If the switch is already on and nothing happens, a permission record left by an older version may no longer match this copy of NitiaDock. You can reset it:\n\n1. Quit NitiaDock first — while it is running, the minus button in the list is greyed out and the entry cannot be removed.\n2. In Privacy & Security > Accessibility, select NitiaDock in the list and remove it with the minus button. There may be more than one entry; remove them all.\n3. Open NitiaDock again from your Applications folder, then add it and turn the switch on when prompted."
+          }
+        }
+      }
+    },
+    "\n\nIf simply turning the switch back on works, NitiaDock restarts itself and there is nothing else to do; going through the cleanup above means reopening it manually afterwards.\nAlso, windows the taskbar had moved out of its way may sit one taskbar height short — maximizing them once puts them back.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\n\nIf simply turning the switch back on works, NitiaDock restarts itself and there is nothing else to do; going through the cleanup above means reopening it manually afterwards.\nAlso, windows the taskbar had moved out of its way may sit one taskbar height short — maximizing them once puts them back."
+          }
+        }
+      }
+    },
+
+    "Welcome to NitiaDock": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Welcome to NitiaDock"
+          }
+        }
+      }
+    },
+    "Your windows, one click away.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your windows, one click away."
+          }
+        }
+      }
+    },
+    "A taskbar on every display": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A taskbar on every display"
+          }
+        }
+      }
+    },
+    "Each listing every window": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Each listing every window"
+          }
+        }
+      }
+    },
+    "Each listing its own windows": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Each listing its own windows"
+          }
+        }
+      }
+    },
+    "Restore the Dock": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restore the Dock"
+          }
+        }
+      }
+    },
+    "Shows the Dock again and puts back the standard minimize settings. Do this before you uninstall NitiaDock.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shows the Dock again and puts back the standard minimize settings. Do this before you uninstall NitiaDock."
+          }
+        }
+      }
+    },
+    "Restore…": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restore…"
+          }
+        }
+      }
+    },
+    "Restore the Dock?": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restore the Dock?"
+          }
+        }
+      }
+    },
+    "Auto-hide is turned off and minimizing goes back to the Genie effect. The screen flashes once while the Dock restarts.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Auto-hide is turned off and minimizing goes back to the Genie effect. The screen flashes once while the Dock restarts."
+          }
+        }
+      }
+    },
+    "What the permission is used for": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "What the permission is used for"
+          }
+        }
+      }
+    },
+    "See your windows": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "See your windows"
+          }
+        }
+      }
+    },
+    "Which windows are open and what they are called, to draw the cards.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Which windows are open and what they are called, to draw the cards."
+          }
+        }
+      }
+    },
+    "Switch between them": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Switch between them"
+          }
+        }
+      }
+    },
+    "Bring a window forward or minimize it when you click its card.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bring a window forward or minimize it when you click its card."
+          }
+        }
+      }
+    },
+    "Nothing leaves your Mac": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nothing leaves your Mac"
+          }
+        }
+      }
+    },
+    "Nothing is recorded, and nothing is sent anywhere.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nothing is recorded, and nothing is sent anywhere."
+          }
+        }
+      }
+    },
+    "How it works": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "How it works"
+          }
+        }
+      }
+    },
+    "One card per window": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "One card per window"
+          }
+        }
+      }
+    },
+    "Click a card to bring its window forward. Click again to minimize it.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Click a card to bring its window forward. Click again to minimize it."
+          }
+        }
+      }
+    },
+    "Right-click for more": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Right-click for more"
+          }
+        }
+      }
+    },
+    "Right-click a card to keep its app on the taskbar, or the empty space at either end for the taskbar menu.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Right-click a card to keep its app on the taskbar, or the empty space at either end for the taskbar menu."
+          }
+        }
+      }
+    },
+    "Make it yours": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Make it yours"
+          }
+        }
+      }
+    },
+    "Size, colours, auto-hide and more are in Settings, under the NitiaDock icon in the menu bar.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Size, colours, auto-hide and more are in Settings, under the NitiaDock icon in the menu bar."
+          }
+        }
+      }
+    },
+    "Recommended Dock settings": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recommended Dock settings"
+          }
+        }
+      }
+    },
+    "Press ⌥⌘D at any time to show the Dock again. Settings > General > Restore the Dock undoes all three.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Press ⌥⌘D at any time to show the Dock again. Settings > General > Restore the Dock undoes all three."
+          }
+        }
+      }
+    },
+    "Hide the Dock": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hide the Dock"
+          }
+        }
+      }
+    },
+    "NitiaDock takes over its job. The Dock stays away from the bottom edge.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "NitiaDock takes over its job. The Dock stays away from the bottom edge."
+          }
+        }
+      }
+    },
+    "A quick shrink instead of the Genie effect.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A quick shrink instead of the Genie effect."
+          }
+        }
+      }
+    },
+    "Minimized windows stay on their card instead of piling up at the end.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Minimized windows stay on their card instead of piling up at the end."
+          }
+        }
+      }
+    },
+    "The screen flashes once when you apply this.": {
+      "comment": "fork: NitiaDock",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The screen flashes once when you apply this."
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

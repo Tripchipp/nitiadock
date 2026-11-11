@@ -1,0 +1,83 @@
+name: Bug report
+description: Something in NitiaDock does not work as expected
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time. A few details up front save a lot of back and forth.
+
+  - type: input
+    id: app-version
+    attributes:
+      label: NitiaDock version
+      description: Settings ▸ About shows it, for example "1.0.0 (100)".
+      placeholder: "1.0.0 (100)"
+    validations:
+      required: true
+
+  - type: input
+    id: macos-version
+    attributes:
+      label: macOS version and Mac
+      description: Apple menu ▸ About This Mac.
+      placeholder: "macOS 26.1, MacBook Pro M3"
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: >
+        What did you do, step by step? If it only happens with one app, name it. Window behaviour
+        differs a lot between apps.
+      placeholder: |
+        1. Open two Finder windows
+        2. Minimize the front one
+        3. Click its card in the taskbar
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened instead
+      description: For anything visual, a screenshot or a short screen recording helps a lot.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: displays
+    attributes:
+      label: Displays
+      options:
+        - "One display"
+        - "Two or more displays"
+    validations:
+      required: true
+
+  - type: textarea
+    id: crash
+    attributes:
+      label: Crash report (if it crashed)
+      description: >
+        Open Console ▸ Crash Reports, or Finder ▸ Go ▸ Go to Folder ▸
+        `~/Library/Logs/DiagnosticReports`, and drag the newest `NitiaDock-….ips` file here.
+    validations:
+      required: false
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else
+      description: Does it happen every time or only sometimes? Did it start after an update?
+    validations:
+      required: false

@@ -1,0 +1,69 @@
+# Continuous integration.
+#
+# Runs on every push and pull request: the string catalog check and the full unit-test suite.
+# No signing, no notarization, no artifacts: releases are built on the maintainer's machine.
+#
+# Runner: macos-26 (arm64). The code targets the macOS 26 SDK (Liquid Glass path uses
+# NSGlassEffectView behind #available(macOS 26.0, *)), so the macos-15 image's Xcode 16
+# cannot compile it.
+name: CI
+
+on:
+  push:
+    branches: ['**']
+  pull_request:
+    branches: [main]
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    name: Localization check + unit tests
+    runs-on: macos-26
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Select newest Xcode 26
+        run: |
+          XCODE="$(ls -d /Applications/Xcode_26*.app | sort -V | tail -n 1)"
+          echo "Using $XCODE"
+          sudo xcode-select -s "$XCODE"
+          xcodebuild -version
+
+      - name: Localization catalog check
+        run: python3 Scripts/check_localization.py
+
+      - name: Debug-switch registry check
+        run: python3 Scripts/check_debug_switches.py
+
+      - name: Unit tests
+        run: |
+          set -o pipefail
+          mkdir -p build
+          xcodebuild test \
+            -project NitiaDock.xcodeproj \
+            -scheme NitiaDock \
+            -configuration Debug \
+            -derivedDataPath build/DerivedData \
+            -destination 'platform=macOS' \
+            CODE_SIGNING_ALLOWED=NO \
+            2>&1 | tee build/xcodebuild-test.log | grep -E 'error:|warning: unre|Executed [0-9]+ tests|\*\* TEST' || true
+          grep -E 'Executed [0-9]+ tests, with 0 failures' build/xcodebuild-test.log
+
+      # Conformance-availability warnings do not fail a build, but they crash at launch on
+      # the deployment target (macOS 12): CGRect/CGPoint/CGSize Hashable is macOS 15+, and
+      # a Set<CGRect> shipped that way in 0.11.0-0.11.2. The runner compiles from a fresh
+      # checkout, so this log carries every warning.
+      - name: Cross-version conformance check
+        run: python3 Scripts/check_availability_warnings.py build/xcodebuild-test.log
+
+      - name: Upload test log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: xcodebuild-test-log
+          path: build/xcodebuild-test.log
+          if-no-files-found: ignore

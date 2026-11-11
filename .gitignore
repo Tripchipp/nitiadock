@@ -1,0 +1,12 @@
+.DS_Store
+
+# Build output
+build/
+dist/
+DerivedData/
+.build/
+default.profraw
+
+# Xcode user state
+xcuserdata/
+*.xcuserstate

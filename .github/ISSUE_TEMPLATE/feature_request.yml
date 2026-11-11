@@ -1,0 +1,19 @@
+name: Feature idea
+description: Suggest something NitiaDock could do better
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: Describe the situation, not the solution. "I keep losing track of…" is a great start.
+    validations:
+      required: true
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would help?
+      description: How you imagine it working. Screenshots or sketches from other apps are welcome.
+    validations:
+      required: false
